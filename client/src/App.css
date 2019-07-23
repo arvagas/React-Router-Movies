@@ -1,0 +1,16 @@
+.selected {
+    font-weight: bold;
+    color: red;
+}
+
+.movie-card-link {
+    text-decoration: none;
+}
+
+.movie-card-link:link {
+    color:black;
+}
+
+.movie-card-link:visited {
+    color:black;
+}
